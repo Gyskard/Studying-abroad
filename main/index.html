@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
     <head>
         <!-- FONTS -->
@@ -19,7 +19,7 @@
                     <a class="brand-logo center">Etudes à l'étranger</a>
                     <ul class="left hide-on-med-and-down">
                         <li class="active"><a href="index.html">Carte</a></li>
-                        <li><a href="infos.html">Informations</a></li>
+                        <li><a href="informations.html">Informations</a></li>
                         <li><a href="contact.html">Contact</a></li>
                     </ul>
                 </div>
@@ -37,15 +37,12 @@
             L.tileLayer('https://tile.openstreetmap.org/1/1/1.png', {
                 noWrap: true
             }).addTo(L.map('map').setView([0, 0], 0));
-
             function size() {
                 $('#map').css('height', $(window).height() - $('nav').height())
             }
-
             $(window).resize(function () {
                 size()
             });
-
             size();
         </script>
     </body>
