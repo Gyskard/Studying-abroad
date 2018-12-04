@@ -1,0 +1,7 @@
+#notValid {
+    display: none;
+    margin-top: 1em;
+    width: 100%;
+    font-size: 80%;
+    color: #dc3545
+}
