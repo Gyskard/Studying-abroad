@@ -108,7 +108,12 @@ Single page with the list of people who participated in the project.
 
 * [jQuery](https://jquery.com/) - JavaScript library
 * [Bootstrap](https://letsencrypt.org/) - Toolkit for developing with HTML, CSS, and JS
+* [Leaftletjs](https://leafletjs.com/) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps
+* [Bootstrap 4 Login Page Template](https://github.com/nauvalazhar/my-login) - Bootstrap 4 Login Page Snippet
 * [Font asewome](https://fontawesome.com/) - Font and icon toolkit based on CSS and LESS
+* [Alwaysdata](https://www.alwaysdata.com/) - Simple, fast and managed hosting
+* [phpMyAdmin](https://www.phpmyadmin.net/) - Free software tool to handle the administration of MySQL over the Web
+
 
 ## Authors
 
