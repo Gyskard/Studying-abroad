@@ -14,7 +14,7 @@ The website is divided into two parts, the "public website" and the "testimonial
 
 ## Authors
 
-* **Thomas Margueritat** - *Initial work* - [Gyskard](https://github.com/Gyskard)
+* **Thomas Margueritat** - *Initial work* - @Gyskard
 * **Guillaume Barnéoud** - *Initial work* - [0Guillaume](https://github.com/0Guillaume)
 
 ## License
