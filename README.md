@@ -22,7 +22,7 @@ There are different information pages accessible through the menu at the top.
 
 A Google Forms is available to propose a new testimonial.
 
-!(https://image.noelshack.com/fichiers/2019/06/6/1549712208-screenshot-2019-02-09-proposer-un-temoignage.png)
+![](https://image.noelshack.com/fichiers/2019/06/6/1549712208-screenshot-2019-02-09-proposer-un-temoignage.png)
 
 ### The testimonial manager
 
