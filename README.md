@@ -6,7 +6,7 @@ Tutored project of the second year of the university diploma of technology, in n
 
 The website is divided into two parts.
 
-#### The public website
+### The public website
 
 The public website is composed of an interactive map where each testimony is represented by a marker, when you click on it the student's testimony is displayed in a popup. 
 
@@ -20,21 +20,21 @@ A Google Forms is available to propose a new testimonial.
 
 !(https://image.noelshack.com/fichiers/2019/06/6/1549712208-screenshot-2019-02-09-proposer-un-temoignage.png)
 
-#### The testimonial manager
+### The testimonial manager
 
 As its name suggests, it allows you to manage the different testimonies added to the website, it interacts with JSON files to store the testimonies and with a MySQL database for authentication.   
 
-##### Login page
+#### Login page
 
 ![](https://image.noelshack.com/fichiers/2019/06/6/1549712765-screenshot-2019-02-09-etudes-a-l-etranger-login.png)
 
-##### Index page
+#### Index page
 
 The index page provides different statistics.
 
 ![](https://image.noelshack.com/fichiers/2019/06/6/1549712953-screenshot-2019-02-09-gestionnaire-de-temoignages.png)
 
-##### Testimonies page
+#### Testimonies page
 
 The testimonials page allows you to manage testimonials, there is a complete list of testimonials with information, and there are several action buttons. 
 
@@ -52,11 +52,11 @@ The delete button redirects to a page to delete the testimonial.
 
 ![](https://image.noelshack.com/fichiers/2019/06/6/1549712945-screenshot-2019-02-09-gestionnaire-de-temoignages-3.png)
 
-##### Logs page
+#### Logs page
 
 The logs page allows to access the logs of all the users' actions on the website (interaction with testimonials, loading a page... etc).
 
-##### Settings page
+#### Settings page
 
 This page allows you to change different settings and manage the manager's users. The template of the page looks like the one of the testimonial management page, on the left a list of users with information, on the right of the action buttons.
 
@@ -74,7 +74,7 @@ The delete button redirects to a page to delete the user.
 
 ![](https://image.noelshack.com/fichiers/2019/06/6/1549713511-img.png)
 
-##### Credits page
+#### Credits page
 
 Single page with the list of people who participated in the project.
 
