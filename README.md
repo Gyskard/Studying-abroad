@@ -10,7 +10,7 @@ The website is divided into two parts.
 
 The public website is composed of an interactive map where each testimony is represented by a marker, when you click on it the student's testimony is displayed in a popup. 
 
-!(https://image.noelshack.com/fichiers/2019/06/6/1549711960-img.png)
+![](https://image.noelshack.com/fichiers/2019/06/6/1549711960-img.png)
 
 There are different information pages accessible through the menu at the top. 
 
