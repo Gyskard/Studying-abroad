@@ -156,7 +156,7 @@ ___
 ## Authors
 
 * **Thomas Margueritat** - *Initial work* - [Gyskard](https://github.com/Gyskard)
-* **Guillaume Barnéoud** - *Initial work* - [0Guillaume](https://github.com/0Guillaume)
+* **Guillaume Barnéoud** - *Translation* - [0Guillaume](https://github.com/0Guillaume)
 
 ## License
 
