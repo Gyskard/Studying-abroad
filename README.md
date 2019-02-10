@@ -145,13 +145,10 @@ ___
 
 * [jQuery](https://jquery.com/) - JavaScript library
 * [Leaftletjs](https://leafletjs.com/) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps
-
 * [Bootstrap](https://letsencrypt.org/) - Toolkit for developing with HTML, CSS, and JS
 * [Bootstrap 4 Login Page Template](https://github.com/nauvalazhar/my-login) - Free Bootstrap Login Page
 * [Stisla Admin Template](https://github.com/nauvalazhar/my-login) - Free Bootstrap Admin Template
-
 * [Font asewome](https://fontawesome.com/) - Font and icon toolkit based on CSS and LESS
-
 * [Alwaysdata](https://www.alwaysdata.com/) - Simple, fast and managed hosting
 * [phpMyAdmin](https://www.phpmyadmin.net/) - Free software tool to handle the administration of MySQL over the Web
 
